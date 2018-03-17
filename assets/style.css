@@ -1,0 +1,111 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    background: #777;
+    text-align: center;
+}
+
+#header {
+    color: #777;
+    background: #ebebeb;
+    text-align: center;
+    width: 960px;
+    padding: 5px;
+    margin: 2px 120px 10px;
+}
+
+#nav {
+    color: #777;
+    background: #ebebeb;
+    text-align: center;
+    width: 960px;
+    padding: 5px;
+    margin: 1px 120px 20px;
+}
+
+.container {
+    width: 495px;
+    position: inline-block;
+}
+
+#section {
+    color: #777;
+    background: #ebebeb;
+    text-align: center;
+    margin: 0px 120px 5px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 220px;
+    position: absolute;
+    float: left;
+    width: 495px;
+    z-index: 1;
+}
+
+#article {
+    color: #ebebeb;
+    background: #777;
+    text-align: center;
+    position: absolute;
+    top: 320px;
+    margin: 0px 0px 20px 150px;
+    padding-top: -20px;
+    padding-left: 0px;
+    padding-right: -20px;
+    padding-bottom: 140px;
+    width: 435px;
+    z-index: 2;
+}
+#hboys {
+    color: #777;
+    background: #ebebeb;
+    text-align: center;
+    position: absolute;
+    top: 380px;
+    margin: 0px 120px 0px 168px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    width: 400px;
+    z-index: 3;
+}
+#p {
+    color: #777;
+    background: #ebebeb;
+    text-align: center;
+    position: absolute;
+    top: 455px;
+    margin: 0px 120px 0px 168px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    width: 400px;
+    z-index: 4;
+}
+
+#aside {
+    color: #777;
+    background: #ebebeb;
+    text-align: center;
+    position: relative;
+    right: 0px;
+    left: 330px;
+    margin: 0px 0px 0px 300px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 195px;
+    width: 420px;
+}
+
+#footer {
+    color: #777;
+    background: #ebebeb;
+    text-align: center;
+    padding: 5px;
+    margin: 15px 120px 10px;
+    width: 960px;
+}
